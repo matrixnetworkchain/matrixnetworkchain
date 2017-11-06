@@ -1,0 +1,9 @@
+Building MatrixNetwork
+
+See doc/readme-qt.rst for instructions on building MatrixNetwork QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MatrixNetwork.
+
+See doc/build-*.txt for instructions on building matrixnetworkd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MatrixNetwork.
